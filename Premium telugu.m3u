@@ -8,8 +8,12 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40860
 #EXTINF:-1,STAR MAA GOLD HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40865
-#EXTINF:-1,ZEE TELUGU HD
+EXTINF:-1,ZEE TELUGU HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40873
+#EXTINF:-1,ZEE CINEMALU HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40871
+#EXTINF:-1,ZEE CINEMALU SD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40872
 #EXTINF:-1,ETV CINEMA
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40854
 #EXTINF:-1,ETV HD
@@ -30,10 +34,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40864
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40862
 #EXTINF:-1,RAJ NEWS TELUGU
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40863
-#EXTINF:-1,ZEE CINEMALU HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40871
-#EXTINF:-1,ZEE CINEMALU SD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40872
 #EXTINF:-1,TATA SKY TELUGU CINEMA HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40867
 #EXTINF:-1,TV9 NEWS
@@ -88,3 +88,12 @@ http://watchindia.net:8880/live/33253/72963/2168.m3u8
 http://watchindia.net:8880/live/33253/72963/934.m3u8
 #EXTINF:-1,Star Maa Gold HD
 http://watchindia.net:8880/live/33253/72963/935.m3u8
+EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 1" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Sneh Telugu",Star Maa HD 1
+http://watchindia.net:8880/live/33253/72963/933.m3u8
+#EXTINF:-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD 2" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Sneh Telugu",Star Maa HD 2
+http://watchindia.net:8880/live/33253/72963/2168.m3u8
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Sneh Telugu",Star Maa Movies HD
+http://watchindia.net:8880/live/33253/72963/934.m3u8
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="Star Maa Gold HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Gold_HD.png" group-title="Sneh Telugu",Star Maa Gold HD
+http://watchindia.net:8880/live/33253/72963/935.m3u8
+
